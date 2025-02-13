@@ -1,0 +1,325 @@
+SGO Report ID,Year Month,Location,Is NHTSA Reportable In-Transport,Is NHTSA Reportable In-Transport Delta-V Less than 1 MPH,Is Police-Reported,Is Any-Injury-Reported,Is Airbag Deployment,Incident Date,Location Address / Description,Zip Code
+30270-8887,202409,PHOENIX,False,False,False,False,False,09/28/2024,North 6th Avenue near Roosevelt Street,85003
+30270-8886,202409,LOS_ANGELES,True,False,False,False,False,09/27/2024,San Vicente Boulevard at Wilshire Boulevard,90211
+30270-8885,202409,SAN_FRANCISCO,True,True,False,False,False,09/26/2024,20th Street near Valencia Street,94110
+30270-8884,202409,SAN_FRANCISCO,True,True,True,False,False,9/26/2024,Potrero Avenue at 23rd Street,94110
+30270-8883,202409,AUSTIN,True,True,False,False,False,09/25/2024,Davis Street near Red River Street,78701
+30270-8882,202409,SAN_FRANCISCO,True,False,False,False,False,09/24/2024,4th Street near 16th Street,94158
+30270-8881,202409,PHOENIX,True,False,False,False,False,09/19/2024,Rural Road at Terrace Mall,85281
+30270-8878,202409,SAN_FRANCISCO,True,True,False,False,False,09/18/2024,Shipley Street at 5th Street,94107
+30270-8877,202409,SAN_FRANCISCO,True,True,False,False,False,09/17/2024,Mason Street at Pine Street,94108
+30270-8876,202409,SAN_FRANCISCO,True,False,False,False,False,09/16/2024,Dolores Street near 16th Street,94103
+30270-8875,202409,SAN_FRANCISCO,True,False,False,False,False,09/16/2024,Mission Street near Van Ness Avenue,94103
+30270-8873,202409,SAN_FRANCISCO,True,True,False,False,False,09/16/2024,Mason Street at Post Street,94102
+30270-8871,202409,SAN_FRANCISCO,True,False,False,False,False,09/16/2024,Battery Street near Washington Street,94111
+30270-8870,202409,SAN_FRANCISCO,True,False,False,False,False,09/15/2024,Columbus Avenue near Green Street,94133
+30270-8868,202409,SAN_FRANCISCO,True,True,False,False,False,09/14/2024,Grove Street near Gough Street,94102
+30270-8859,202409,PHOENIX,True,True,True,False,False,09/13/2024,East Indian School Road at North 3rd Street,85012
+30270-8858,202409,PHOENIX,True,True,True,False,False,09/12/2024,McLellan Boulevard near North 15th Avenue,85013
+30270-8857,202409,LOS_ANGELES,True,True,False,False,False,09/10/2024,Santa Monica Boulevard at Beloit Avenue,90025
+30270-8856,202409,LOS_ANGELES,True,False,False,False,False,09/10/2024,West Pico Boulevard near Hauser Boulevard,90019
+30270-8851,202409,SAN_FRANCISCO,True,True,False,False,False,09/26/2024,Market Street at 8th Street,94103
+30270-8849,202409,PHOENIX,True,False,False,False,False,09/07/2024,Washington Street near Hohokam Expressway,85034
+30270-8844,202409,SAN_FRANCISCO,True,False,False,False,False,09/07/2024,Mission Street at Van Ness Avenue,94103
+30270-8842,202409,SAN_FRANCISCO,True,True,False,False,False,09/06/2024,Duboce Avenue near Valencia Street,94103
+30270-8835,202409,PHOENIX,True,False,False,False,False,09/06/2024,W. Southern Avenue at S. Alma School Road,85202
+30270-8833,202409,PHOENIX,True,False,False,False,False,09/06/2024,South 3rd Street at East Buckeye Road,85004
+30270-8832,202409,AUSTIN,True,False,False,False,False,09/05/2024,E. Stassney Lane and Burleson Road,78744
+30270-8828,202409,SAN_FRANCISCO,True,True,False,False,False,09/03/2024,Columbus Avenue at Grant Avenue,94133
+30270-8827,202409,SAN_FRANCISCO,True,False,False,False,False,09/03/2024,Kansas Street at 23rd Street,94107
+30270-8826,202409,PHOENIX,True,False,False,False,False,09/02/2024,N. 15th Avenue and W. Pierce Street,85007
+30270-8822,202409,SAN_FRANCISCO,True,False,False,True,False,09/01/2024,Bayshore Boulevard at Silver Avenue,94124
+30270-8809,202409,PHOENIX,True,True,False,False,False,09/19/2024,North Goldwater Boulevard near East Indian School Road,85251
+30270-8750,202409,PHOENIX,True,False,True,False,True,09/28/2024,W. Broadway Road at S. Farmer Avenue,85282
+30270-8687,202409,SAN_FRANCISCO,True,True,False,False,False,09/20/2024,Bright Street at Sargent Street,94132
+30270-8685,202409,SAN_FRANCISCO,False,False,False,False,False,09/20/2024,Folsom Street near Langton Street,94103
+30270-8673,202409,PHOENIX,True,False,True,False,False,9/21/2024,N 7th Avenue south of McDowell Road,85007
+30270-8661,202409,PHOENIX,True,False,False,False,False,09/13/2024,Parking lot on S. Diablo Way,85282
+30270-8639,202409,SAN_FRANCISCO,True,False,False,False,False,09/11/2024,Noe Street at 22nd Street,94114
+30270-8631,202409,PHOENIX,True,False,True,False,False,08/31/2024,South Terrace Road at Apache Boulevard,85281
+30270-8581,202409,SAN_FRANCISCO,True,True,True,False,False,09/08/2024,Van Ness Avenue at McAllister Street,94102
+30270-8541,202409,SAN_FRANCISCO,True,True,False,False,False,09/06/2024,Stevenson Street at New Montgomery Street,94105
+30270-8526,202409,LOS_ANGELES,True,True,True,False,False,09/08/2024,Venice Boulevard at 6th Ave,90019
+30270-8514,202409,SAN_FRANCISCO,True,False,False,False,False,09/05/2024,Market Street at Sanchez Street,94114
+30270-8513,202409,SAN_FRANCISCO,True,True,False,False,False,09/02/2024,Beale Street near Mission Street,94105
+30270-8512,202409,LOS_ANGELES,True,False,False,False,False,09/01/2024,W Adams Boulevard at S. Western Avenue,90018
+30270-8633,202408,SAN_FRANCISCO,True,True,False,False,False,08/31/2024,Grant Avenue at Vallejo Street,94133
+30270-8632,202408,SAN_FRANCISCO,True,False,False,False,False,08/07/2024,Florida Street at 21st Street,94110
+30270-8630,202408,LOS_ANGELES,True,True,False,False,False,08/31/2024,North Las Palmas Avenue at Waring Avenue,90038
+30270-8629,202408,SAN_FRANCISCO,True,False,False,False,False,08/31/2024,Roanoke Street at Chenery Street,94131
+30270-8627,202408,PHOENIX,True,True,False,False,False,08/30/2024,S. Mill Avenue at E. 7th Street,85281
+30270-8625,202408,SAN_FRANCISCO,True,False,False,False,False,08/30/2024,Alemany Boulevard at Ocean Avenue,94112
+30270-8624,202408,LOS_ANGELES,True,False,False,False,False,08/29/2024,12941 W. Runway Road,90094
+30270-8623,202408,SAN_FRANCISCO,True,True,False,False,False,08/27/2024,Jack London Alley near S. Park Street,94107
+30270-8622,202408,LOS_ANGELES,True,True,False,False,False,08/25/2024,Parking lot at 8490 Beverly Boulevard,90048
+30270-8621,202408,SAN_FRANCISCO,True,False,False,False,False,08/23/2024,Jersey Street at Castro Street,94114
+30270-8620,202408,PHOENIX,True,False,True,False,False,08/23/2024,Washington Street at North 5th Street,85004
+30270-8619,202408,PHOENIX,True,True,False,False,False,08/23/2024,Washington Street near South 32nd Street,85034
+30270-8618,202408,SAN_FRANCISCO,True,False,False,False,False,08/23/2024,Rossi Avenue near Anza Street,94118
+30270-8617,202408,PHOENIX,True,False,False,False,False,08/23/2024,East Indian School Road at North 32nd Street,85016
+30270-8616,202408,SAN_FRANCISCO,True,True,False,False,False,8/22/2024,Eddy Street near Franklin Street,94109
+30270-8615,202408,SAN_FRANCISCO,True,True,False,False,False,08/21/2024,Taylor Street at Broadway,94133
+30270-8614,202408,PHOENIX,True,False,False,False,False,08/19/2024,East Roosevelt Street at Hayden Road,85257
+30270-8612,202408,PHOENIX,True,False,False,False,False,08/17/2024,East Buckeye Road at South 10th Street,85034
+30270-8610,202408,SAN_FRANCISCO,True,False,False,False,False,08/15/2024,Sanchez Street at Market Street,94114
+30270-8608,202408,PHOENIX,True,True,False,False,False,08/15/2024,Rural Road at East Southern Avenue,85282
+30270-8607,202408,SAN_FRANCISCO,False,False,False,False,False,08/15/2024,Waverly Way at Bellevue Ave,94014
+30270-8606,202408,PHOENIX,True,False,False,False,False,08/13/2024,Thomas Road at N. 40th Street,85008
+30270-8605,202408,SAN_FRANCISCO,True,True,False,False,False,8/12/2024,Minna Street at 3rd Street,94105
+30270-8603,202408,LOS_ANGELES,True,True,False,False,False,08/09/2024,Nebraska Avenue at Stewart Street,90404
+30270-8602,202408,PHOENIX,True,True,False,False,False,08/06/2024,North 49th Place near East Shady Glen Avenue,85254
+30270-8601,202408,SAN_FRANCISCO,False,False,False,False,False,08/05/2024,Oak Grove Street at Bryant Street,94107
+30270-8600,202408,SAN_FRANCISCO,True,False,False,False,False,08/03/2024,20th Street at Church Street,94114
+30270-8599,202408,LOS_ANGELES,True,True,False,False,False,08/01/2024,W. Jefferson Boulevard near La Brea Avenue,90016
+30270-8483,202408,PHOENIX,True,True,False,False,False,08/27/2024,N. Saguaro Road near E. Jackrabbit Road,85253
+30270-8471,202408,SAN_FRANCISCO,True,True,False,False,False,08/24/2024,Spruce Street at Geary Boulevard,94118
+30270-8469,202408,SAN_FRANCISCO,True,True,False,False,False,08/27/2024,Grant Avenue at Broadway,94133
+30270-8444,202408,SAN_FRANCISCO,True,False,False,True,False,08/20/2024,Brannan Street at 4th Street,94107
+30270-8417,202408,SAN_FRANCISCO,True,False,True,False,True,08/11/2024,9th Street at Harrison Street,94103
+30270-8357,202408,PHOENIX,True,True,False,False,False,08/09/2024,6580 E McDowell Road,85257
+30270-8356,202408,SAN_FRANCISCO,True,False,False,False,False,08/09/2024,Pacific Avenue at Sansome Street,94109
+30270-8344,202408,PHOENIX,True,True,False,False,False,08/08/2024,Hayden Road at E Shea Boulevard,85260
+30270-8317,202408,PHOENIX,True,True,True,False,False,08/06/2024,parking lot near North 30th Street and East Fillmore Street,85008
+30270-8316,202408,SAN_FRANCISCO,True,False,False,False,False,08/04/2024,Bush Street at Battery Street,94104
+30270-8406,202407,SAN_FRANCISCO,False,False,False,False,False,07/29/2024,Grattan Street near Shrader Street ,94117
+30270-8405,202407,PHOENIX,True,True,False,False,False,7/26/2024,East Van Buren Street and North 23rd Street,85034
+30270-8404,202407,SAN_FRANCISCO,True,False,False,False,False,07/25/2024,Connecticut Street at Wisconsin Street,94107
+30270-8402,202407,SAN_FRANCISCO,True,True,False,False,False,07/20/2024,Grant Avenue at Green Street,94133
+30270-8401,202407,SAN_FRANCISCO,True,False,False,False,False,07/19/2024,Taylor Street at Sutter Street,94102
+30270-8398,202407,PHOENIX,True,False,True,False,False,07/17/2024,Parking lot near 1827 E Apache Boulevard,85281
+30270-8397,202407,PHOENIX,True,False,False,False,False,07/15/2024,N. Pleasant Drive near W. Orchid Lane,85224
+30270-8394,202407,LOS_ANGELES,True,True,False,False,False,07/15/2024,Santa Monica Boulevard near Malcolm Avenue,90024
+30270-8393,202407,SAN_FRANCISCO,True,True,False,False,False,07/10/2024,Mason Street at Geary Street,94102
+30270-8392,202407,SAN_FRANCISCO,True,False,False,False,False,07/11/2024,16th Street near Bryant Street,94103
+30270-8390,202407,SAN_FRANCISCO,False,False,False,False,False,07/10/2024,10th Street near Folsom Street,94103
+30270-8389,202407,SAN_FRANCISCO,True,True,False,False,False,07/08/2024,Haight Street at Broderick St,94117
+30270-8388,202407,SAN_FRANCISCO,True,False,False,False,False,07/08/2024,The Embarcadero at Broadway,94105
+30270-8387,202407,SAN_FRANCISCO,False,False,False,False,False,07/08/2024,Broadway near Webster Street,94123
+30270-8386,202407,SAN_FRANCISCO,True,False,False,False,False,07/03/2024,Davis Street at California Street,94111
+30270-8385,202407,SAN_FRANCISCO,True,True,False,False,False,07/02/2024,Dolores Street at 17th Street,94110
+30270-8384,202407,LOS_ANGELES,True,True,False,False,False,07/02/2024,Sycamore Avenue near W. Pico Boulevard,90019
+30270-8383,202407,PHOENIX,True,True,True,False,False,07/02/2024,Washington Street at North 44th Street,85043
+30270-8378,202407,PHOENIX,True,True,False,True,False,07/01/2024,Parking lot at 2233 E Highland Avenue,85016
+30270-8278,202407,SAN_FRANCISCO,True,False,False,False,False,07/31/2024,Pacific Avenue and Jones Street,94109
+30270-8273,202407,SAN_FRANCISCO,True,True,False,False,False,07/30/2024,Brannan Street at 4th Street,94107
+30270-8266,202407,SAN_FRANCISCO,True,False,False,False,False,07/27/2024,Cesar Chavez Street at the Bayshore Boulevard Exit,94110
+30270-8243,202407,PHOENIX,True,False,True,True,True,07/28/2024,E. Shea Boulevard near N. 55th Place,85254
+30270-8217,202407,PHOENIX,True,False,True,True,True,07/22/2024,East Osborn Road near North 28th Street,85016
+30270-8200,202407,SAN_FRANCISCO,True,True,False,False,False,07/18/2024,Bush Street at Market Street,94104
+30270-8199,202407,PHOENIX,True,False,True,True,False,07/14/2024,N Scottsdale Road near E Oak Street,85257
+30270-8182,202407,SAN_FRANCISCO,True,False,False,False,False,7/17/2024,Lyon Street at Pacific Avenue.,94115
+30270-8180,202407,PHOENIX,True,True,True,False,False,07/12/2024,E Indian School Road at N 68th Street,85251
+30270-8152,202407,SAN_FRANCISCO,True,True,False,False,False,06/30/2024,Steuart Street at Howard Street,94105
+30270-8088,202407,SAN_FRANCISCO,True,False,False,False,False,07/12/2024,Van Ness Avenue at Clay Str,94109
+30270-8061,202407,SAN_FRANCISCO,True,False,True,False,True,07/06/2024,Ulloa Street at 22nd Avenue,94116
+30270-8021,202407,SAN_FRANCISCO,True,False,False,False,False,06/30/2024,Columbus Avenue at Grant Avenue,94133
+30270-8634,202406,PHOENIX,True,False,False,False,False,,,
+30270-8158,202406,LOS_ANGELES,True,False,False,True,False,06/21/2024,Ohio Avenue at S Westgate Avenue,90025
+30270-8157,202406,PHOENIX,True,True,False,False,False,06/09/2024,3939 E Campbell Avenue,85018
+30270-8156,202406,LOS_ANGELES,True,False,False,False,False,06/11/2024,Maple Street at 10th Street,90405
+30270-8151,202406,SAN_FRANCISCO,True,False,False,False,False,06/28/2024,Bush Street at Sansome Street,94104
+30270-8150,202406,SAN_FRANCISCO,False,False,False,False,False,06/22/2024,40 Buchanan Street,94102
+30270-8146,202406,PHOENIX,True,True,False,False,False,06/19/2024,W Elliot Road near N Carriage Lane,85224
+30270-8145,202406,SAN_FRANCISCO,True,True,True,False,False,06/18/2024,2335 Golden Gate Avenue,94117
+30270-8144,202406,LOS_ANGELES,True,False,False,False,False,06/14/2024,S Western Avenue at Monette Place,90006
+30270-8141,202406,SAN_FRANCISCO,True,False,False,False,False,06/13/2024,Hugo Street at Second Avenue,94122
+30270-8139,202406,SAN_FRANCISCO,True,True,False,False,False,06/13/2024,Guerrero Street at Market Street,94102
+30270-8137,202406,PHOENIX,True,True,True,False,False,06/12/2024,N Price Road at E Southern Avenue,85282
+30270-8134,202406,SAN_FRANCISCO,True,True,False,False,False,06/09/2024,3800 block of 20th Street,94114
+30270-8131,202406,SAN_FRANCISCO,True,True,False,False,False,06/09/2024,Folsom Street at Main Street,94105
+30270-8130,202406,SAN_FRANCISCO,True,False,False,False,False,06/08/2024,Howard Street at Lafayette Street,94103
+30270-8128,202406,PHOENIX,True,True,False,False,False,06/07/2024,W Monroe Street at N Central Avenue,85004
+30270-8127,202406,SAN_FRANCISCO,False,False,False,False,False,06/05/2024,29th Avenue near Lawton Street,94122
+30270-8124,202406,PHOENIX,True,True,False,False,False,06/03/2024,Washington Street near 30th St,85034
+30270-8121,202406,LOS_ANGELES,True,True,False,False,False,06/01/2024,W Olympic Boulevard at Kelton Avenue,90025
+30270-8120,202406,PHOENIX,True,False,False,False,False,06/01/2024,E Southern Avenue near S 17th Street,85040
+30270-8027,202406,PHOENIX,True,False,False,False,True,06/29/2024,Washington Street at 56th Street,85034
+30270-8020,202406,PHOENIX,True,False,True,False,False,06/28/2024,E Indian School Rd at N 32nd Street,85016
+30270-7998,202406,SAN_FRANCISCO,True,True,False,False,False,06/22/2024,Oak Street and Octavia Boulevard,94102
+30270-7969,202406,PHOENIX,True,True,False,False,False,06/15/2024,Priest Drive at W. Southern Avenue,85282
+30270-7959,202406,SAN_FRANCISCO,True,False,True,True,False,06/14/2024,Diamond Street at 24th Street,94114
+30270-7883,202406,PHOENIX,True,True,False,False,False,06/08/2024,E Campbell Avenue at N 40th Street,85018
+30270-7882,202406,SAN_FRANCISCO,True,True,True,False,False,06/08/2024,Montgomery Street at Broadway,94133
+30270-7855,202406,SAN_FRANCISCO,True,True,False,False,False,06/09/2024,Union Street at Buchanan St,94123
+30270-7842,202406,PHOENIX,True,False,True,False,False,06/08/2024,E Osborn Rd and N Drinkwater Boulevard,85251
+30270-7839,202406,SAN_FRANCISCO,True,False,False,False,False,06/04/2024,Lombard Street at Fillmore Street,94123
+30270-7953,202405,LOS_ANGELES,True,True,False,False,False,05/10/2024,S. Wooster Street near Whitworth Drive,90035
+30270-7952,202405,PHOENIX,True,False,True,False,False,05/11/2024,S McClintock Drive at E Apache Boulevard,85281
+30270-7950,202405,SAN_FRANCISCO,True,False,False,False,False,05/16/2024,Divisadero Street at Hayes Street,94117
+30270-7949,202405,LOS_ANGELES,True,False,False,False,False,05/16/2024,Vermont Avenue at Interstate 10 West,90007
+30270-7947,202405,PHOENIX,True,True,False,False,False,05/18/2024,Parking Lot 3757 E. Van Buren St.,85008
+30270-7946,202405,PHOENIX,True,False,True,False,False,05/20/2024,Parking lot 291 E. Buckeye Rd,85004
+30270-7945,202405,PHOENIX,True,False,True,True,False,05/21/2024,S Priest Drive at W Elliot Road,85283
+30270-7944,202405,PHOENIX,True,False,False,False,False,05/24/2024,Parking lot E. Fillmore Street,85008
+30270-7943,202405,PHOENIX,True,True,True,False,False,05/25/2024,S Hardy Drive and W Baseline Road,85283
+30270-7942,202405,SAN_FRANCISCO,True,False,False,False,False,05/26/2024,Bryant Street at 5th Street,94107
+30270-7941,202405,PHOENIX,True,False,True,False,False,05/28/2024,2525 S Rural Rd Tempe AZ,85282
+30270-7940,202405,LOS_ANGELES,True,False,False,False,False,05/29/2024,San Pedro Street at E 16th St,90015
+30270-7939,202405,SAN_FRANCISCO,True,True,False,False,False,05/29/2024,15th Street at Valencia Street,94103
+30270-7938,202405,SAN_FRANCISCO,False,False,False,False,False,05/19/2024,Montgomery Street near Gold Street,94133
+30270-7936,202405,PHOENIX,True,True,False,False,False,05/06/2024,Parking lot at S. Packard Drive,85281
+30270-7935,202405,SAN_FRANCISCO,True,True,False,False,False,05/03/2024,21st Street at Mission Street,94110
+30270-7934,202405,SAN_FRANCISCO,True,False,False,False,False,05/03/2024,Laguna Street at Waller Street,94102
+30270-7877,202405,PHOENIX,True,True,False,False,False,05/03/2024,Papago Springs Apartment Complex,85008
+30270-7813,202405,SAN_FRANCISCO,True,False,True,True,False,05/26/2024,Mission Street at 9th Street,94103
+30270-7795,202405,SAN_FRANCISCO,True,False,False,False,False,05/23/2024,parking lot at City College of San Francisco,94112
+30270-7794,202405,PHOENIX,True,False,False,False,False,05/21/2024,alleyway near N 7th Avenue and W Roosevelt Street,85003
+30270-7793,202405,SAN_FRANCISCO,True,False,True,False,True,05/20/2024,14th Street at Folsom Street,94103
+30270-7734,202405,PHOENIX,True,False,False,True,False,05/13/2024,E Madison Street at S 44th Street,85034
+30270-7733,202405,PHOENIX,True,False,True,True,False,05/12/2024,E Broadway Road at N Price,85282
+30270-7730,202405,PHOENIX,True,False,False,False,False,05/07/2024,6202 N. Scottsdale Road,85253
+30270-7718,202405,SAN_FRANCISCO,True,False,False,False,False,05/10/2024,3rd Street near Howard Street,94103
+30270-7647,202405,SAN_FRANCISCO,True,False,False,False,False,05/01/2024,University Street at Sweeny Street,94134
+30270-7639,202405,SAN_FRANCISCO,True,False,False,False,False,05/07/2024,Mission Street at 1st Street,94105
+30270-7637,202405,PHOENIX,True,False,True,True,False,05/03/2024,E. Campbell Avenue and N. 24th Street,85016
+30270-7631,202405,SAN_FRANCISCO,True,False,True,False,False,05/02/2024,22nd Street at Fair Oaks Street,94110
+30270-7729,202404,LOS_ANGELES,True,True,False,False,False,04/25/2024,1425 Montana Avenue,90403
+30270-7728,202404,SAN_FRANCISCO,True,True,False,False,False,04/25/2024,1315 8th Avenue,94122
+30270-7727,202404,SAN_FRANCISCO,True,True,False,False,False,04/20/2024,Larkin Street at Beach Street,94109
+30270-7726,202404,SAN_FRANCISCO,True,False,False,False,False,04/20/2024,Hyde Street at O'Farrell Street,94109
+30270-7724,202404,SAN_FRANCISCO,True,False,False,False,False,04/08/2024,Stockton Street near Campton Place,94108
+30270-7722,202404,SAN_FRANCISCO,True,True,False,True,False,04/12/2024,Cedar Street at Polk Street,94109
+30270-7721,202404,PHOENIX,True,False,False,False,False,04/11/2024,W. Ray Road near N. Price Road,85224
+30270-7720,202404,PHOENIX,True,True,False,False,False,04/11/2024,7th Street at E. Roosevelt Street,85006
+30270-7719,202404,SAN_FRANCISCO,True,False,False,False,False,04/06/2024,Steiner Street at Bush Street,94115
+30270-7573,202404,SAN_FRANCISCO,True,False,False,False,False,04/20/2024,Gough Street at Turk Street,94109
+30270-7425,202404,SAN_FRANCISCO,True,True,False,False,False,04/01/2024,Brannan Street and Ritch Street,94107
+30270-7543,202403,SAN_FRANCISCO,False,False,False,False,False,03/15/2024,near 1949 Sunnydale Avenue,94134
+30270-7542,202403,LOS_ANGELES,True,True,False,False,False,03/14/2024,S Figueroa Street at 7th Street,90017
+30270-7540,202403,LOS_ANGELES,True,False,False,False,False,03/08/2024,S Figueroa Street at W 17th Street,90015
+30270-7538,202403,SAN_FRANCISCO,True,False,False,False,False,03/31/2024,19th Street at Vermont Street,94107
+30270-7536,202403,SAN_FRANCISCO,True,True,False,False,False,03/30/2024,Guerrero Street at 14th Street,94114
+30270-7533,202403,PHOENIX,True,False,False,False,False,03/08/2024,250 W Rio Salado Parkway,85281
+30270-7532,202403,PHOENIX,True,True,False,False,False,03/26/2024,W. Chandler Boulevard near N. Los Feliz Drive,85226
+30270-7531,202403,PHOENIX,True,False,False,True,False,03/25/2024,W. Missouri Avenue at N. 23rd Street,85015
+30270-7530,202403,PHOENIX,True,False,True,False,False,03/24/2024,W. University Drive near S. Farmer Avenue,85281
+30270-7529,202403,SAN_FRANCISCO,True,False,False,False,False,03/22/2024,Church Street at Market Street,94114
+30270-7528,202403,PHOENIX,True,False,False,False,False,03/19/2024,S. Dorsey Lane at E. Lemon Street,85281
+30270-7527,202403,PHOENIX,True,False,True,False,False,03/17/2024,W. Ray Road and N. Price Road,85224
+30270-7525,202403,SAN_FRANCISCO,True,False,False,False,False,03/07/2024,St. Germain Avenue at Glenbrook Avenue,94114
+30270-7522,202403,PHOENIX,True,False,True,False,False,03/01/2024,E Portland Street at N 5th Place,85006
+30270-7515,202403,PHOENIX,True,False,False,False,False,03/01/2024,W Southern Avenue at S Alma School Road,85210
+30270-7424,202403,PHOENIX,True,False,True,False,False,03/30/2024,N Drinkwater Boulevard at E 2nd Street,85251
+30270-7423,202403,SAN_FRANCISCO,True,False,False,False,False,03/30/2024,Barneveld Ave and Jerrold Avenue,94124
+30270-7421,202403,PHOENIX,True,False,True,True,True,03/28/2024,N. 24th Street and E. Devonshire Avenue,85016
+30270-7380,202403,SAN_FRANCISCO,True,False,True,True,False,03/19/2024,Division Street at 9th Street,94103
+30270-7306,202403,SAN_FRANCISCO,True,False,False,False,False,03/10/2024,10th Street at Mission Street,94103
+30270-7318,202402,PHOENIX,True,False,False,False,False,02/09/2024,E Indian School Road at N 7th Street,85102
+30270-7316,202402,PHOENIX,True,False,False,True,False,02/26/2024,W. Galveston Street at N. Arizona Avenue,85225
+30270-7315,202402,SAN_FRANCISCO,True,True,False,False,False,02/23/2024,Folsom Street at Falmouth Street,94107
+30270-7313,202402,PHOENIX,True,True,False,False,False,02/23/2024,E Lamar Road at N 16th Street,85016
+30270-7312,202402,PHOENIX,True,True,False,False,False,02/21/2024,S. 16th Street towards E. Broadway Road,85040
+30270-7311,202402,PHOENIX,True,False,False,False,False,02/18/2024,E Camelback Road and N 32rd Street,85016
+30270-7309,202402,PHOENIX,True,False,True,False,False,02/13/2024,S. McClintock Drive at E. Broadway Rd,85282
+30270-7308,202402,LOS_ANGELES,True,True,False,False,False,02/05/2024,Watt Way at Exposition Blvd,90007
+30270-7257,202402,PHOENIX,True,False,False,True,False,02/22/2024,S Rural Road at E University Drive,85281
+30270-7190,202402,SAN_FRANCISCO,True,False,False,False,False,02/19/2024,Fillmore Street at Geary Boulevard,94115
+30270-7075,202402,SAN_FRANCISCO,True,False,True,True,False,02/06/2024,17th Street at Mississippi Street,94107
+30270-7162,202401,SAN_FRANCISCO,True,True,True,False,False,01/21/2024,intersection of Market Street at Hermann Street and Guerrero Street,94103
+30270-7161,202401,SAN_FRANCISCO,True,True,True,False,False,01/12/2024,26th Street at Castro Street,94114
+30270-7160,202401,PHOENIX,False,False,False,False,False,01/03/2024,E. Indian School Road at N. 87th Place,85251
+30270-7159,202401,PHOENIX,True,False,True,False,False,01/17/2024,S. McClintock Drive at the intersection with the on and off ramps for westbound Highway 60,85282
+30270-7158,202401,PHOENIX,True,False,True,False,False,01/15/2024,S. 16th Street at E. Buckeye Road,85034
+30270-7157,202401,LOS_ANGELES,True,True,False,True,False,01/08/2024,Manhattan Place at West Adams Boulevard,90018
+30270-7156,202401,PHOENIX,True,True,False,False,False,01/08/2024,E. Van Buren Street and N. 30th Street.,85008
+30270-7071,202401,SAN_FRANCISCO,True,True,False,False,False,01/31/2024,Potrero Avenue near 22nd Street,94110
+30270-7058,202401,PHOENIX,True,True,False,False,False,01/27/2024,Parking lot entrance on N. Portales Place,85251
+30270-7054,202401,PHOENIX,True,True,False,False,False,01/25/2024,N. 40th Street past Washington Street,85034
+30270-7048,202401,PHOENIX,True,True,False,False,False,01/24/2024,Parking lot entrance on W. San Angelo Street near N. Colorado Street,85233
+30270-7021,202401,SAN_FRANCISCO,True,True,False,False,False,12/31/2023,Turner Terrace near Missouri Street,94107
+30270-6981,202401,SAN_FRANCISCO,False,False,False,False,False,01/13/2024,Larkin Street at Bush Street,94109
+30270-6932,202401,PHOENIX,True,False,True,False,False,01/02/2024,N. Central Avenue at E. Osborn Road,85015
+30270-7020,202312,PHOENIX,True,True,False,False,False,12/31/2023,East Playa Del Norte Drive near North Scottsdale Road,85288
+30270-7019,202312,SAN_FRANCISCO,True,False,False,False,False,12/27/2023,Stanyan Street near Haight Street,94117
+30270-7018,202312,PHOENIX,False,False,False,False,False,12/24/2023,East Palm Lane near North 43rd Street,85008
+30270-7017,202312,PHOENIX,True,False,False,False,False,12/23/2023,North Third Street at Washington Street,85004
+30270-7015,202312,SAN_FRANCISCO,True,True,False,False,False,12/21/2023,Gilman Avenue at Third Street,94124
+30270-7014,202312,SAN_FRANCISCO,True,True,False,False,False,12/19/2023,Beach Street near Larkin Street,94109
+30270-7013,202312,PHOENIX,True,False,True,False,False,12/11/2023,North 32nd Street at East Filmore Street,85008
+30270-7012,202312,PHOENIX,True,False,True,False,False,12/07/2023,South McClintock Drive at East Baseline Road,85283
+30270-7007,202312,SAN_FRANCISCO,True,True,False,False,False,12/14/2023,Napoleon Street near Evans Avenue ,94124
+30270-7006,202312,SAN_FRANCISCO,True,False,False,False,False,12/02/2023,24th Street at Osage Street,94110
+30270-6907,202312,PHOENIX,True,True,False,False,False,12/26/2023,E. 1st Avenue near N. Scottsdale Road,85251
+30270-6906,202312,PHOENIX,True,False,True,True,False,12/23/2023,N. 44th Street and Washington Street,85008
+30270-6901,202312,PHOENIX,True,False,False,False,False,12/20/2023,N. 28th Street at E. Pinchot Avenue,85016
+30270-6883,202312,PHOENIX,True,False,True,True,False,12/13/2023,N. Scottsdale Road at E. Chaparral Road,85253
+30270-6879,202312,SAN_FRANCISCO,True,False,True,True,False,12/12/2023,Gough Street at Ellis Street,94109
+30270-6878,202312,PHOENIX,True,False,True,False,False,12/11/2023,E. Van Buren Street at N. 36th Street,85008
+30270-6855,202311,SAN_FRANCISCO,True,True,True,False,False,11/09/2023,Stockton Street near O'Farrell Street,94102
+30270-6854,202311,PHOENIX,True,True,False,False,False,11/08/2023,1949 E. University Drive,85288
+30270-6838,202311,PHOENIX,True,True,False,False,False,11/03/2023,135 W. Orion Street,85283
+30270-6765,202311,PHOENIX,True,False,True,False,False,11/30/2023,Hayden Road and McDowell Road,85257
+30270-6579,202311,SAN_FRANCISCO,True,False,True,True,False,11/03/2023,Folsom Street at 11th Street,94103
+30270-6668,202310,PHOENIX,True,False,False,False,False,10/30/2023,S. Terrace Road at E. Lemon Street,85281
+30270-6667,202310,SAN_FRANCISCO,True,True,False,False,False,10/29/2023,Marin Street near Michigan Street,94124
+30270-6666,202310,SAN_FRANCISCO,True,True,False,False,False,10/28/2023,Avila Street near Rico Way,94123
+30270-6664,202310,PHOENIX,True,True,False,False,False,10/21/2023,44 N. 44th Street,85008
+30270-6663,202310,SAN_FRANCISCO,True,False,False,False,False,10/10/2023,Bluxome Street at 4th Street,94107
+30270-6662,202310,SAN_FRANCISCO,True,True,False,False,False,10/07/2023,Van Ness Avenue at Lombard Street,94109
+30270-6661,202310,SAN_FRANCISCO,True,False,False,False,False,10/04/2023,Fremont Street at Mission Street,94105
+30270-6566,202310,PHOENIX,True,False,True,True,False,10/28/2023,N. Dobson Road near W. Warner Road,85224
+30270-6561,202310,PHOENIX,True,True,True,False,False,10/26/2023,Parking lot driveway at Central High School,85012
+30270-6548,202310,PHOENIX,True,False,True,False,False,10/19/2023,S. Central Avenue near E. Grant Street,85004
+30270-6542,202310,PHOENIX,False,False,False,False,False,10/10/2023,Hayden Road near E. Wilshire Drive,85257
+30270-6385,202310,SAN_FRANCISCO,True,False,False,False,False,10/01/2023,15th Street near Sanchez Street,94114
+30270-6521,202309,PHOENIX,True,True,False,False,False,09/30/2023,North 9th Avenue at Grand Avenue,85007
+30270-6520,202309,PHOENIX,True,True,False,False,False,09/30/2023,Scottsdale Road at Camelback Road,85251
+30270-6519,202309,PHOENIX,True,False,True,False,False,09/29/2023,North 2nd Street at East McKinley Street,85004
+30270-6518,202309,SAN_FRANCISCO,False,False,False,False,False,09/27/2023,24th Street at Ortega Street,94122
+30270-6517,202309,SAN_FRANCISCO,True,True,False,False,False,09/20/2023,Divisadero Street and McAllister Street,94115
+30270-6516,202309,PHOENIX,True,False,False,False,False,09/09/2023,Rural Road at South Terrance Road,85281
+30270-6515,202309,SAN_FRANCISCO,True,False,False,False,False,09/07/2023,Florida Street at Mariposa Street,94110
+30270-6514,202309,SAN_FRANCISCO,True,True,False,False,False,09/01/2023,Divisadero Street at Hayes Street,94117
+30270-6405,202309,SAN_FRANCISCO,True,False,True,False,False,09/29/2023,Haight Street at Laguna Street,94102
+30270-6368,202309,PHOENIX,True,False,True,False,False,09/17/2023,E. Minton Drive near Rural Road,85282
+30270-6352,202309,SAN_FRANCISCO,True,False,True,False,False,09/12/2023,19th Street at Tennessee Street,94107
+30270-6347,202308,LOS_ANGELES,True,False,False,False,False,08/24/2023,Michigan Ave and Euclid St,90404
+30270-6346,202308,SAN_FRANCISCO,True,True,False,False,False,08/23/2023,Bay St and Mason St,94133
+30270-6342,202308,SAN_FRANCISCO,True,True,False,False,False,08/17/2023,Bayshore Blvd and Costa Street,94124
+30270-6341,202308,SAN_FRANCISCO,False,False,False,False,False,08/16/2023,Bryant Street at 2nd Street,94107
+30270-6338,202308,PHOENIX,True,False,False,False,False,08/08/2023,W McKinley St and N 5th Av,85003
+30270-6337,202308,PHOENIX,False,False,False,False,False,08/07/2023,South Sycamore at South Cholla,85202
+30270-6336,202308,SAN_FRANCISCO,True,False,True,True,False,08/02/2023,Bush St and Polk St,94109
+30270-6335,202308,PHOENIX,False,False,False,False,False,08/01/2023,E Oak and N 46th Street,85008
+30270-6198,202308,PHOENIX,True,False,True,False,False,08/30/2023,Camelback Road at North 17th Street,85015
+30270-6150,202308,PHOENIX,True,False,False,False,False,08/14/2023,7th Street at E. Van Buren St,85034
+30270-6149,202308,PHOENIX,True,False,True,True,True,08/17/2023,Apache Boulevard near S. Rural Road,85281
+30270-6133,202307,SAN_FRANCISCO,True,True,False,False,False,07/22/2023,13th Street east of Folsom St,94103
+30270-6132,202307,SAN_FRANCISCO,True,True,False,False,False,07/21/2023,Leavenworth Street at Golden Gate Ave,94102
+30270-6131,202307,PHOENIX,False,False,False,False,False,07/13/2023,East Taylor Street at North Papago Street,85008
+30270-5997,202307,PHOENIX,True,False,True,True,False,07/27/2023,E. Rio Salado Parkway near Clubview Avenue,85281
+30270-5896,202307,PHOENIX,True,False,True,False,False,07/11/2023,N. San Marcos Place at W. Commonwealth Avenue,85225
+30270-5961,202306,SAN_FRANCISCO,True,True,False,False,False,06/29/2023,Jersey Street at Church Street,94114
+30270-5960,202306,SAN_FRANCISCO,False,False,False,False,False,06/28/2023,Great Highway near Kirkham Street,94122
+30270-5959,202306,SAN_FRANCISCO,True,False,False,False,False,06/18/2023,Market Street at Diamond St,94114
+30270-5958,202306,SAN_FRANCISCO,False,False,False,False,False,06/11/2023,Santiago Street near 42nd Avenue.,94116
+30270-5957,202306,SAN_FRANCISCO,True,True,False,False,False,06/05/2023,3911 3rd Street,94124
+30270-5760,202305,PHOENIX,True,True,False,False,False,05/13/2023,W Taylor Street just west of N 7th Avenue,85007
+30270-5758,202305,SAN_FRANCISCO,True,False,False,False,False,05/06/2023,Post Street at Webster Street,94115
+30270-5756,202305,PHOENIX,True,True,False,False,False,05/05/2023,E Roeser Road at S 40th Street,85040
+30270-5612,202305,PHOENIX,True,True,False,False,False,05/14/2023,1613 N. 18th St.,85006
+30270-5611,202305,PHOENIX,True,True,False,False,False,05/14/2023,1613 N. 18th St.,85006
+30270-5456,202305,SAN_FRANCISCO,True,False,False,False,False,05/07/2023,Bay Street near Mason Street,94133
+30270-5593,202304,SAN_FRANCISCO,False,False,False,False,False,04/30/2023,Oak Street at Octavia Boulevard,94102
+30270-5592,202304,SAN_FRANCISCO,True,False,False,False,False,04/28/2023,25th Street at Sanchez Street,94114
+30270-5591,202304,PHOENIX,True,False,False,False,False,04/24/2023,North Central Avenue at West Encanto Boulevard,85004
+30270-5588,202304,PHOENIX,True,True,False,False,False,04/13/2023,South McClintock Drive at parking lot driveway near East Warner Road,85284
+30270-5208,202304,SAN_FRANCISCO,True,True,False,False,False,04/06/2023,Randall Street near Harper Street,94131
+30270-5319,202303,PHOENIX,True,True,False,False,False,03/08/2023,200 block of N. 5th Avenue,85003
+30270-5318,202303,SAN_FRANCISCO,True,True,False,False,False,03/01/2023,8077 O'Farrell Street,94118
+30270-5114,202303,SAN_FRANCISCO,True,True,False,False,False,03/20/2023,Bayshore Boulevard near Jerrold Avenue,94124
+30270-5085,202302,SAN_FRANCISCO,True,False,False,False,False,02/25/2023,25th St and Noe Street,94114
+30270-5083,202302,SAN_FRANCISCO,True,False,False,False,False,02/24/2023,Toland St and Hudson Ave,94124
+30270-5081,202302,SAN_FRANCISCO,True,True,False,False,False,02/15/2023,North Point St and Buchanan Street,94123
+30270-4882,202301,PHOENIX,True,False,False,False,False,1/23/2023,N Alma School Rd & W Commonwealth Ave,85224
+30270-4880,202301,PHOENIX,True,True,False,False,False,1/19/2023,116 E Roosevelt Street,85004
+30270-4768,202301,PHOENIX,True,True,False,True,False,1/21/2023,E. Van Buren Street at N. 24th Place,85008
+30270-4363,202212,PHOENIX,True,True,False,False,False,12/4/2022,4100 block of N S. Herrera Way,85012
+30270-4484,202211,PHOENIX,True,True,True,False,False,11/7/2022,500 block of W. Willetta Street,85003
+30270-3842,202208,SAN_FRANCISCO,True,False,False,False,False,8/10/2022,Clayton Street at Market Street,94114
+30270-3838,202208,PHOENIX,True,True,False,False,False,8/8/2022,1919 N. Dobson Road,85224
+30270-1730,202110,PHOENIX,False,False,False,False,False,10/19/2021,700 block of S. El Dorado,85202
+30270-1583,202110,PHOENIX,True,False,True,False,False,10/23/2021,W. Chandler Boulevard and S. Chandler Village Drive,85226
+30270-1501,202109,PHOENIX,True,False,False,False,False,9/21/2021,909 E. Minton Dr.,85282
+N/A,202105,PHOENIX,True,False,False,False,False,05/28/2021,S McClintock Drive at E Baseline Rd,85283
+N/A,202009,PHOENIX,True,False,True,False,True,9/15/2020,849 S Dobbson Rd,85202
